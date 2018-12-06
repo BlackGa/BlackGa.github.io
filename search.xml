@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[我喜欢用的电脑软件]]></title>
+    <url>%2F2018%2F12%2F06%2F%E5%A5%BD%E8%BD%AF%E6%8E%A8%E8%8D%90%2F</url>
+    <content type="text"><![CDATA[浏览器Google Chrome Mozilla Firefox 压缩软件Bandisoft bandizip 图像管理Bandisoft Honeyview FastStone Capture 影音视听potplayer 音乐播放网易云音乐 杀毒工具火绒安全 下载工具IDM(internet download manager) 远程控制TeamViewer 实用工具everything、uTools、iobit uninstaller、ScreenToGif、ShiftN]]></content>
+      <categories>
+        <category>实用软件</category>
+      </categories>
+      <tags>
+        <tag>电脑软件</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2018%2F11%2F27%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
