@@ -28,7 +28,7 @@ chrome商店会展示成这样
 ![linux2](/linux2.png)
 ###### 国内chrome插件网站下载安装
 可以从下面三个网站进行搜索下载插件：
-1. https://www.gugeapps.com/
+1. https://www.gugeapps.net/
 2. https://52crx.com/
 3. https://www.chrome666.com/
 
