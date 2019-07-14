@@ -246,8 +246,8 @@ post_wordcount: #字数统计
 
 # Reward
 #reward_comment: Donate comment here
-#wechatpay: /images/wechatpay.jpg
-#alipay: /images/alipay.jpg
+wechatpay: /images/wechatpay.png
+alipay: /images/alipay.png
 #bitcoin: /images/bitcoin.png
 
 # Declare license on posts 版权信息
