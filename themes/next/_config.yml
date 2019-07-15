@@ -151,7 +151,7 @@ links_layout: block
 #links_layout: inline
 links:
   #Title: http://example.com/
-  纳兰共由: http://nalangongyou.com/
+  纳兰共由: http://nalangongyou.github.io/
 
 # Sidebar Avatar 侧边栏头像
 # in theme directory(source/images): /images/avatar.gif
