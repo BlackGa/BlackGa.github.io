@@ -1812,7 +1812,7 @@ pre .javascript .function {
   text-align: center;
 }
 #qr > div:hover p {
-  animation: roll 0.1s infinite linear;
+  color: #f00;
 }
 @-moz-keyframes roll {
   from {
@@ -1978,7 +1978,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #c48c78;
+  background: #fffef6;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
