@@ -3,7 +3,6 @@ title: Chrome浏览器插件篇
 date: 2019-02-17 20:05:56
 tags: 电脑软件
 categories: 实用软件
-comments: true //开启评论
 ---
 
 <font size="4">推荐一些chrome浏览器中的良心插件，通常我们安装插件的方式有以下两种：</font>
