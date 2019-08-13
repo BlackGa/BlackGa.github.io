@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[everything之HTTP服务器]]></title>
+    <url>%2F2019%2F08%2F13%2Feverything%E4%B9%8BHTTP%E6%9C%8D%E5%8A%A1%E5%99%A8%2F</url>
+    <content type="text"><![CDATA[今天来说一下神器everything的高级用法之一。HTTP服务器。电脑要往手机让传东西，通常人们会选择QQ、WeChat这两个工具，但是速度不够快，传输到手机上的位置也不好找。所以我推荐这个软件。 按快捷键 + R 打开运行 输入命令：ipconfig 看本机IP打开浏览器输入IP地址，如端口号修改请在后面加 :端口号，未修改可直接输入IP，默认端口为80 注：移动端下载默认路径是 根目录下Download文件夹 注：PC端访问可直接右键图片另存为，移动端需长按保存图片]]></content>
+      <categories>
+        <category>实用软件</category>
+      </categories>
+      <tags>
+        <tag>电脑软件</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[素材之图标篇]]></title>
     <url>%2F2019%2F07%2F14%2F%E7%B4%A0%E6%9D%90%E4%B9%8B%E5%9B%BE%E6%A0%87%E7%AF%87%2F</url>
     <content type="text"><![CDATA[最近自己折腾美化，需要一些图标，然后就发现很多图标网站都蛮好看的，就是…需要VIP才能下载，怎么就这么不良心呢？互联网的共享精神呢？！ 那就来推荐一些免费的有好看的图标网站吧。 阿里巴巴矢量图 用的最多的一个网站了，图标多，只需要用github/阿里域/新浪微博账号登录即可下载。下载方法： icons8下载方法： easyicon下载方法： flaticon下载方法： iconstore下载方法： iconmonstr下载方法： iconfinder下载方法： iconninja下载方法：]]></content>
